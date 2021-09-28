@@ -1,4 +1,7 @@
 
+**<span style="color:#56adda">0.0.5</span>**
+- Add some missing stream codecs from list of "image" video streams
+
 **<span style="color:#56adda">0.0.4</span>**
 - Limit plugin to only process files with a "video" mimetype
 
